@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MobilePractical</string>
+    <string name="message">Hello World</string>
+    <string name="name">dllm</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+</resources>
